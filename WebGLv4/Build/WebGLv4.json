@@ -1,0 +1,12 @@
+{
+"companyName": "JegoWave",
+"productName": "BossWorld",
+"dataUrl": "WebGLv4.data.unityweb",
+"wasmCodeUrl": "WebGLv4.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGLv4.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
